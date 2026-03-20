@@ -1,0 +1,19 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Non-project files
+*.pptx
+*.png
+*.ttf
+*.otf
+
+# IDE
+.vscode/
+.idea/
